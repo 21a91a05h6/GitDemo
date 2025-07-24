@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hey
+=======
+Hello
+>>>>>>> 5d51c46b71115cbcf9466441cc56da4d38cfe5fd
 New Line
 New code updated 
